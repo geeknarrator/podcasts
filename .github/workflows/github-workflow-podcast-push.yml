@@ -1,4 +1,4 @@
-name: 'Upload Episode from The GeekNarrator YouTube To Anchor.Fm'
+name: 'Upload Episode from The GeekNarrator YouTube To Anchor.Fm new'
 on:
   push:
     paths: 
